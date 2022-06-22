@@ -2,7 +2,7 @@
 
 Faço parte do GE _**Formadores em Ação**_
 :grinning:
-![](
+
 - 👀 I’m interested in Chemistry.
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on nothing.
