@@ -12,3 +12,5 @@ Faço parte do GE _**Formadores em Ação**_
 MscCaetano/MscCaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- ![](https://tenor.com/view/bruce-almighty-jim-carrey-type-typing-fast-gif-4271405)
+
