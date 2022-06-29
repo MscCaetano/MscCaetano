@@ -1,4 +1,4 @@
-# **Olá, eu sou o Daniel**
+# **Olá, as pessoas me chamam de Daniel**
 
 Faço parte do GE _**Formadores em Ação**_
 :grinning:
