@@ -3,7 +3,7 @@
 
 
 Sou professor de: :school:
-- :becquer:  Química
+- :chemistry:  Química
 - 💻 Pensamento Computacional
 - 🤖 Robótica
 
