@@ -3,7 +3,7 @@ Oi<h1 align="center"> Olá! meu nome é Daniel Silva</h1>
 
 
 Sou professor de: :school:
--  https://img.shields.io/badge/Química
+-  https://img.shields.io/badge/Química-blue
 - 💻 Pensamento Computacional
 - 🤖 Robótica
 
