@@ -3,7 +3,7 @@
 
 
 Sou professor de: :school:
-- :chemistry:  Química
+- :sun:  Química
 - 💻 Pensamento Computacional
 - 🤖 Robótica
 
