@@ -1,8 +1,8 @@
 <h1 align="center"> Olá! meu nome é Daniel Silva</h1>
 
-Programação EM :school:
 
-Sou professora de:
+
+Sou professor de: :school:
 - 📊  Química
 - 💻 Pensamento Computacional
 - 🤖 Robótica
