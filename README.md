@@ -21,16 +21,4 @@ Programação EM :tulip:
 
 - ### Contatos
 
-[![]()]()
-[![]()]()
-[![](https://img.shields.io/badge/)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silva.daniel20@escola.pr.gov.br)
-
-<div align="center">
-  <a href="https://github.com/FranPastori">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FranPastori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranPastori&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-![](https://komarev.com/ghpvc/?username=FranPastori&style=flat-square
